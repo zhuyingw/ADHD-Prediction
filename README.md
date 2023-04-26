@@ -2,7 +2,7 @@
 
 
 # RUN jupyter notebook
-DataCleaning //
+DataCleaning
 surveyHistogram
 sensorHistogram
 CreateDataset
